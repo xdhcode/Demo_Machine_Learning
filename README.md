@@ -4,6 +4,8 @@
 
 2. To simiplify network, run topo_delete_pipe.py&topo_delete_node.py.
 
+    Note: The hydraulic simulation software is not available in demo.
+
 ### Step 2: Training of ANN, see foder 2-NN
 1. Modify model structure in ann.py.
 
@@ -11,6 +13,5 @@
 
 3. Run nn_draw.py to plot ANN prediction results.
 
-#### Note: The hydraulic simulation software is not available in demo.
-#### Top3 Accuracy on a network with 878 pipelines
-![image](https://github.com/xdhcode/Demo_Machine_Learning/blob/main/3-Result/stc878_Top3_Acc.png)
+#### Result: Top3 Accuracy on a network with 878 pipelines
+![image](https://github.com/xdhcode/Demo_Machine_Learning/blob/main/3-Result/Pipe878_Top3_Accuracy.png)
