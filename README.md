@@ -12,3 +12,5 @@
 3. Run nn_draw.py to plot ANN prediction results.
 
 #### Note: The hydraulic simulation software is not available in demo.
+#### Top3 Accuracy on a network with 878 pipelines
+![image](https://github.com/xdhcode/Demo_Machine_Learning/blob/main/3-Result/stc878_Top3_Acc.png)
